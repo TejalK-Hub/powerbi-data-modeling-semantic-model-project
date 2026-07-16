@@ -11,6 +11,18 @@ An end-to-end Business Intelligence project demonstrating semantic data modeling
 >
 > Executive Business Dashboards
 >
+> # Dashboard Gallery
+
+| Dashboard | Preview |
+|-----------|---------|
+| Executive Sales | ![Executive Sales](https://github.com/TejalK-Hub/Power-BI-Business-Intelligence-Reporting-Solution/blob/main/Phase-2-Business-Dashboards/Dashboard_1_Exacutive_Sales_Overview.PNG) |
+| Product Performance | ![Product Performance Dashboard](https://github.com/TejalK-Hub/Power-BI-Business-Intelligence-Reporting-Solution/blob/main/Phase-2-Business-Dashboards/Dashboard_2_Product_Performance.PNG) |
+| Customer Analysis | ![Customer Analysis Dashboard](https://github.com/TejalK-Hub/Power-BI-Business-Intelligence-Reporting-Solution/blob/main/Phase-2-Business-Dashboards/Dashboard_3_Customer_Analysis.PNG) |
+| Inventory Management | ![Inventory Dashboard](https://github.com/TejalK-Hub/Power-BI-Business-Intelligence-Reporting-Solution/blob/main/Phase-2-Business-Dashboards/Dashboard_4_Inventory_Dashboard.PNG) |
+| Campaign Performance | ![Campaign Performance Dashboard](https://github.com/TejalK-Hub/Power-BI-Business-Intelligence-Reporting-Solution/blob/main/Phase-2-Business-Dashboards/Dashboard_5_Campaign_Performance.PNG) |
+| Order Process | 
+![Order Process Dashboard](https://github.com/TejalK-Hub/Power-BI-Business-Intelligence-Reporting-Solution/blob/main/Phase-2-Business-Dashboards/Dashboard_6_Order_Process_Dashboard.PNG) |
+>
 
 # Project Summary
 
